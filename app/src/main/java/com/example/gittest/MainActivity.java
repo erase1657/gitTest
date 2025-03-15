@@ -11,6 +11,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         System.out.println("git test");
-        System.out.println("gti test2");
+        System.out.println("git test2");
+        System.out.println("git test3");
     }
 }
